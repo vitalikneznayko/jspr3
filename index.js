@@ -20,7 +20,7 @@ for(let i = 0; i < height; i++){
     console.log(`Сума всіх чисел ${i+1} рядку: ${suma}`)
     suma = 0
 }
-
+console.log("\n")
 for(let i = 0; i < width; i++){
     for(let j = 0; j < height; j++){2
         suma += arr[j][i]

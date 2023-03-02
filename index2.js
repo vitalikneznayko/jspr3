@@ -26,4 +26,4 @@ for(let i = 0; i < height; i++){
     console.log(`Сума всіх чисел ${i+1} рядку: ${suma}`)
     suma = 0
 }
-console.log(`Максимальна сума в ${ind+1} рядку: ${tmpSuma}`)
+console.log(`\nМаксимальна сума в ${ind+1} рядку: ${tmpSuma}`)
